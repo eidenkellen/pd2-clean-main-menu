@@ -1,0 +1,18 @@
+{
+    "clean_main_menu_title": "Clean Main Menu",
+    "clean_main_menu_hide_promotional_banner_title": "Ocultar Banner Promocional",
+    "clean_main_menu_hide_dlc_promo_text_title": "Ocultar Texto Promocional de DLC",
+    "clean_main_menu_hide_menu_option_description_title": "Ocultar Descrição das Opções do Menu",
+    "clean_main_menu_mod_manager_widget_title": "Widget do Gerenciador de Mods",
+    "clean_main_menu_mod_manager_hide": "Ocultar",
+    "clean_main_menu_mod_manager_show": "Mostrar",
+    "clean_main_menu_mod_manager_notifications": "Mostrar apenas para notificações",
+    "clean_main_menu_hide_statistics_title": "Ocultar Estatísticas",
+    "clean_main_menu_hide_announcements_feed_title": "Ocultar Feed de Anúncios",
+    "clean_main_menu_hide_build_version_title": "Ocultar Versão do Jogo",
+    "clean_main_menu_hide_payday_logo_title": "Ocultar logotipo",
+    "clean_main_menu_hide_character_title": "Ocultar personagem",
+    "clean_main_menu_hide_particles_title": "Ocultar partículas",
+    "clean_main_menu_hide_smoke_title": "Ocultar fumaça",
+    "clean_main_menu_hide_background_pattern_title": "Ocultar padrão de fundo"
+}
